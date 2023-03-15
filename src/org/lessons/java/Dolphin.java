@@ -1,6 +1,6 @@
 package org.lessons.java;
 
-public class Dolphin extends Animal {
+public class Dolphin extends Animal implements Swim {
     public Dolphin(String name) {
         super(name);
     }
@@ -18,5 +18,10 @@ public class Dolphin extends Animal {
     public String toString() {
         return name;
 
+    }
+
+    @Override
+    public String swim() {
+        return "I'm swimmig";
     }
 }

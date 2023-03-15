@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4888222-fbe8-432a-9283-9ec964a78c20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractAnimals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Dolphin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Robin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Robin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/Swim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/Swim.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>

@@ -1,6 +1,6 @@
 package org.lessons.java;
 
-public class Robin extends Animal {
+public class Robin extends Animal implements Fly {
     public Robin(String name) {
         super(name);
     }
@@ -17,6 +17,12 @@ public class Robin extends Animal {
     @Override
     public String toString() {
         return   name;
+    }
+
+
+    @Override
+    public String fly() {
+        return "I'm flying";
     }
 }
 
